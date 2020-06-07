@@ -2,6 +2,7 @@
    at index i of the new array is the product of all the numbers in the original array except the one at i.*/
 
 import java.util.*;
+import java.io.*;
 
 class DailyProblem2
 {
